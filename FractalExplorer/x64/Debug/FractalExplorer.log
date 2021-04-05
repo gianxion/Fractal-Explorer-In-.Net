@@ -1,0 +1,106 @@
+﻿  MyForm.cpp
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(24,24): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(25,24): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(26,24): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(27,23): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(28,25): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(29,27): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(30,27): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(31,27): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(32,28): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(33,28): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(34,29): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(35,29): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(36,25): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(38,23): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(39,25): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(44,32): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(45,31): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(46,25): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(47,29): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(48,32): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(49,32): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(50,27): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(51,27): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(52,32): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(53,31): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(54,27): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(56,22): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(57,27): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(58,32): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(59,32): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(64,23): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(65,23): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(66,23): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(67,29): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(68,23): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(69,27): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(70,23): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(71,23): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(72,23): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(73,23): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(74,22): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(75,22): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(78,22): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(84,27): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(85,33): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(86,31): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(87,32): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(88,22): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(89,27): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(90,23): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(91,23): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(92,26): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(93,27): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(94,27): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(95,27): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(96,30): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(97,26): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(98,26): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(99,27): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(526,36): warning C4244:  '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(527,36): warning C4244:  '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(528,35): warning C4244:  '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(550,17): warning C4244:  '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(588,59): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(588,52): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(588,45): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(561,15): warning C4101:  'b': unreferenced local variable
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(561,12): warning C4101:  'g': unreferenced local variable
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(561,9): warning C4101:  'r': unreferenced local variable
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(644,65): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(644,56): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(644,47): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(603,15): warning C4101:  'b': unreferenced local variable
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(603,12): warning C4101:  'g': unreferenced local variable
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(603,9): warning C4101:  'r': unreferenced local variable
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(697,65): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(697,56): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(697,47): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(699,65): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(699,56): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(699,47): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(659,15): warning C4101:  'b': unreferenced local variable
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(659,12): warning C4101:  'g': unreferenced local variable
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(659,9): warning C4101:  'r': unreferenced local variable
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(741,59): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(741,52): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(741,45): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(788,1): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(804,54): warning C4244:  '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(805,54): warning C4244:  '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(806,53): warning C4244:  '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(854,59): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(854,52): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(854,45): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(893,59): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(893,52): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(893,45): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(936,59): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(936,52): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(936,45): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(908,15): warning C4101:  'b': unreferenced local variable
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(908,12): warning C4101:  'g': unreferenced local variable
+C:\Users\gavra\OneDrive\Desktop\FractalExplorer\FractalExplorer\MyForm.h(908,9): warning C4101:  'r': unreferenced local variable
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  FractalExplorer.vcxproj -> C:\Users\gavra\OneDrive\Desktop\FractalExplorer\x64\Debug\FractalExplorer.exe
