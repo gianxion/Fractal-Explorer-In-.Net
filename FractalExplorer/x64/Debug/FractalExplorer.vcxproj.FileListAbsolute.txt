@@ -1,0 +1,2 @@
+C:\Users\X\Documents\projectgit\FractalExplorer\FractalExplorer\x64\Debug\FractalExplorer.MyForm.resources
+C:\Users\X\Documents\projectgit\FractalExplorer\FractalExplorer\x64\Debug\FractalExplorer.vcxproj.GenerateResource.cache
